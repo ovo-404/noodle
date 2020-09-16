@@ -24,4 +24,16 @@
         * [ ] Delete Assignments
 
 * [ ] Model DB
-   
+
+# Installation
+Setting up the config file.
+```
+mv config.env.bak config.env
+```
+And then, fill in the db info in `config.env` .
+
+# Development with Dokcer(Optional)
+Go to project root directory,and type command below:
+````
+docker-compose up
+```
