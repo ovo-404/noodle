@@ -34,6 +34,6 @@ And then, fill in the db info in `config.env` .
 
 # Development with Dokcer(Optional)
 Go to project root directory,and type command below:
-````
+```
 docker-compose up
 ```
